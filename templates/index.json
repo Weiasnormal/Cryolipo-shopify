@@ -12,6 +12,21 @@
     "hero_RkimKJ": {
       "type": "hero",
       "blocks": {
+        "button_PqrfkF": {
+          "type": "button",
+          "name": "t:names.button",
+          "settings": {
+            "label": "Shop now",
+            "link": "shopify://collections/all",
+            "open_in_new_tab": true,
+            "style_class": "button",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          },
+          "blocks": {}
+        },
         "image_y8Vynx": {
           "type": "image",
           "name": "t:names.image",
@@ -38,8 +53,10 @@
         }
       },
       "block_order": [
+        "button_PqrfkF",
         "image_y8Vynx"
       ],
+      "custom_css": [],
       "settings": {
         "media_type_1": "image",
         "image_1": "shopify://shop_images/hero_2.webp",
