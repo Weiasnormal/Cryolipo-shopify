@@ -9,10 +9,13 @@
  */
 {
   "current": {
-    "type_body_font": "inter_n4",
-    "type_subheading_font": "barlow_condensed_n6",
-    "type_heading_font": "barlow_condensed_n6",
-    "type_accent_font": "barlow_condensed_n6",
+    "logo": "shopify://shop_images/cryolipo_logo_4x_bf32fa04-ff33-432c-8f8b-682e15a1b3fd.webp",
+    "logo_height": 27,
+    "logo_height_mobile": 28,
+    "type_body_font": "manrope_n4",
+    "type_subheading_font": "manrope_n4",
+    "type_heading_font": "manrope_n4",
+    "type_accent_font": "manrope_n4",
     "type_size_paragraph": "14",
     "type_line_height_paragraph": "body-normal",
     "type_case_h1": "uppercase",
@@ -36,6 +39,7 @@
     "variant_swatch_radius": 0,
     "variant_button_radius": 0,
     "variant_button_width": "equal-width-buttons",
+    "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -310,9 +314,7 @@
           "selected_variant_hover_border_color": "#1a1a1a"
         }
       }
-    },
-    "logo_height": 36,
-    "logo_height_mobile": 28
+    }
   },
   "presets": {
     "Savor": {
