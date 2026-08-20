@@ -24,12 +24,24 @@
         "text_TxcrLUfe6UwWkFKD": "<p>90+</p>",
         "text_rWsdmKlCAwIzoi6v": "<p>VERIFIED REVIEWS</p>",
         "padding_top": 0,
+        "padding_bottom": 92
+      }
+    },
+    "instant_ro_qg6_bg_ughse3_d_is_pxeUDD": {
+      "type": "instant-RoQg6BGUghse3DIs",
+      "name": "Section 1",
+      "settings": {
+        "text_cwXJkKJnpxCA0KFc": "<p>Shop by Goal</p>",
+        "text_UTL83rdvjlrgePf0": "<p>Find what fits your </p>",
+        "text_IyaJ5TaE78gpJbeB": "<p>Everyday</p>",
+        "padding_top": 0,
         "padding_bottom": 0
       }
     }
   },
   "order": [
     "instant-L7LZea3hFhK0MQFQ",
-    "instant_7_og_os_ru_fp_whx_fav3_FHbHy3"
+    "instant_7_og_os_ru_fp_whx_fav3_FHbHy3",
+    "instant_ro_qg6_bg_ughse3_d_is_pxeUDD"
   ]
 }
