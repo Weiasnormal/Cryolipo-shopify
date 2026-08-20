@@ -37,11 +37,30 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "instant_e_b_rd_xipcb_k_qbl_zk1_XRAjbn": {
+      "type": "instant-eBRdXipcbKQblZk1",
+      "name": "Benefits-Section",
+      "settings": {
+        "text_ahT1xSbmfiRiitfG": "<p>Made to Move With You</p>",
+        "text_nGZ8svMUoJvS9qNv": "<p>Fuel your body. Love your reflection.</p>",
+        "text_AAnO9CFoHqCxwSA3": "<p>GLOWING SKIN</p>",
+        "text_VPfXQkiEV4gzazlP": "<p>Collagen + Glutathione support radiant, youthful skin.</p>",
+        "text_PONGPHxZ3OI4o4Me": "<p>BOOST ENERGY</p>",
+        "text_RbF96TpxoNy9kDVr": "<p>Clean, sustained energy to power your day.</p>",
+        "text_jPYLqdylPh4FgfAn": "<p>SUPPORTS FAT LOSS</p>",
+        "text_5l7bzlePa4Qjy8Uf": "<p>L-Carnitine helps convert fat into energy.</p>",
+        "text_nqHWN4pEv7lXskOz": "<p>CLEAN &amp; LIGHT FORMULA</p>",
+        "text_ogMWlzGCQNlZ94iy": "<p>Zero added sugar, non-dairy, easy on the gut.</p>",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "instant-L7LZea3hFhK0MQFQ",
     "instant_7_og_os_ru_fp_whx_fav3_FHbHy3",
-    "instant_ro_qg6_bg_ughse3_d_is_pxeUDD"
+    "instant_ro_qg6_bg_ughse3_d_is_pxeUDD",
+    "instant_e_b_rd_xipcb_k_qbl_zk1_XRAjbn"
   ]
 }
