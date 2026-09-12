@@ -1,6 +1,9 @@
 
 
-<div class="section-background color-{{ section.settings.color_scheme }}"></div>
+<div
+  class="section-background footer-background color-{{ section.settings.color_scheme }}"
+  style="background-image: url('{{ '_footer/footer.webp' | asset_url }}');"
+></div>
 <div
   class="section section--{{ section.settings.section_width }} color-{{ section.settings.color_scheme }}"
 >
@@ -47,6 +50,12 @@
 </div>
 
 {% stylesheet %}
+  .footer-background {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
   .footer-content {
     contain: content;
     content-visibility: auto;
