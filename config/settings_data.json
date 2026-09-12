@@ -50,7 +50,7 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#ffffff",
+          "background": "rgba(0,0,0,0)",
           "foreground_heading": "#a42325",
           "foreground": "#000000",
           "primary": "#a42325",
