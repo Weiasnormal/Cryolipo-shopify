@@ -5,7 +5,7 @@
 ></div>
 <div
   class="section section--{{ section.settings.section_width }} footer-section color-{{ section.settings.color_scheme }}"
-  style="background-image: url('{{ 'footer.webp' | asset_url }}');"
+  style="--footer-background-image: url('{{ 'footer.webp' | asset_url }}');"
 >
   {% liquid
     assign total_blocks = section.blocks.size
@@ -51,6 +51,8 @@
 
 {% stylesheet %}
   .footer-section {
+    background-color: transparent;
+    background-image: var(--footer-background-image);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
